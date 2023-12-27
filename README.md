@@ -1,6 +1,4 @@
-# ItemApp
-
-## Info
+# Info
 
 - Nome do projeto: ItemApp
 - Objetivo: Projeto desenvolvido como parte da avaliação da disciplina **Análise e Projeto Orientados a Objetos** do curso técnico integrado em Informática Para Internet
