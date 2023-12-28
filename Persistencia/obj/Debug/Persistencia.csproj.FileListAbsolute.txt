@@ -12,3 +12,17 @@ C:\Users\Lucas de Lima\source\repos\Persistencia\obj\Debug\Persistencia.csproj.C
 C:\Users\Lucas de Lima\source\repos\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
 C:\Users\Lucas de Lima\source\repos\Persistencia\obj\Debug\Persistencia.dll
 C:\Users\Lucas de Lima\source\repos\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\Persistencia.dll.config
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\Modelo.dll
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\Modelo.pdb
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Lucas\source\repos\ItemApp\Persistencia\obj\Debug\Persistencia.pdb

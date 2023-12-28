@@ -1,0 +1,14 @@
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Servico.dll
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Servico.pdb
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Modelo.dll
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Persistencia.dll
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\EntityFramework.dll
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Modelo.pdb
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Persistencia.pdb
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\Persistencia.dll.config
+C:\Users\Lucas\source\repos\ItemApp\Servico\bin\Debug\EntityFramework.xml
+C:\Users\Lucas\source\repos\ItemApp\Servico\obj\Debug\Servico.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ItemApp\Servico\obj\Debug\Servico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ItemApp\Servico\obj\Debug\Servico.csproj.CopyComplete
+C:\Users\Lucas\source\repos\ItemApp\Servico\obj\Debug\Servico.dll
+C:\Users\Lucas\source\repos\ItemApp\Servico\obj\Debug\Servico.pdb

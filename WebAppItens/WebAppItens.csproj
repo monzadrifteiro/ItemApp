@@ -136,6 +136,10 @@
       <Project>{501dead6-f89e-4741-96d7-6204a813a45d}</Project>
       <Name>Persistencia</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Servico\Servico.csproj">
+      <Project>{06730c87-5063-4790-90b2-0785b6189892}</Project>
+      <Name>Servico</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

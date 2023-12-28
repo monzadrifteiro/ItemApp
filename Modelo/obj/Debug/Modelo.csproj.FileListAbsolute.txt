@@ -4,3 +4,9 @@ C:\Users\Lucas de Lima\source\repos\Modelo\obj\Debug\Modelo.csproj.AssemblyRefer
 C:\Users\Lucas de Lima\source\repos\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
 C:\Users\Lucas de Lima\source\repos\Modelo\obj\Debug\Modelo.dll
 C:\Users\Lucas de Lima\source\repos\Modelo\obj\Debug\Modelo.pdb
+C:\Users\Lucas\source\repos\ItemApp\Modelo\bin\Debug\Modelo.dll
+C:\Users\Lucas\source\repos\ItemApp\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Lucas\source\repos\ItemApp\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\ItemApp\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\ItemApp\Modelo\obj\Debug\Modelo.dll
+C:\Users\Lucas\source\repos\ItemApp\Modelo\obj\Debug\Modelo.pdb

@@ -11,9 +11,23 @@ namespace Servico
     public class ItemServico
     {
         private ItemDAL itemDAL = new ItemDAL();
-        public void GravarFabricante(Item item)
+        public IQueryable<Item> ObterItensClassificadosPorNome()
         {
-            itemDAL.GravarFabricante(item);
+            return itemDAL.ObterItensClassificadosPorNome();
+        }
+        public Item ObterItemPorId(long id)
+        {
+            return itemDAL.ObterItemPorId(id);
+        }
+        public void GravarItem(Item item)
+        {
+            itemDAL.GravarItem(item);
+        }
+        public Item EliminarItemPorId(long id)
+        {
+            Item item = itemDAL.ObterItemPorId(id);
+            itemDAL.EliminarItemPorId(id);
+            return item;
         }
     }
 }
